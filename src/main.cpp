@@ -23,8 +23,8 @@ bool switchOn = false;
 short switchTimer = 0;
 long logTimer = 0;
 
-String channelID = "887901480470851587";
-String botID = "887848332972683266";
+String channelID = "YourChannelID";
+String botID = "YourBotId";
 
 WebSocketsClient webSocket;
 
